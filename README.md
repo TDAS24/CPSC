@@ -1,2 +1,0 @@
-# CPSC
-Club for TMS
